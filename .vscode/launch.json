@@ -1,0 +1,15 @@
+{
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Launch DemoApplication",
+            "request": "launch",
+            "mainClass": "com.example.demo.DemoApplication",
+            "projectName": "demo",
+            "env": {
+                "WEATHER_API_KEY": "put_your_real_api_key_here"
+            }
+        }
+    ]
+}
